@@ -13,6 +13,10 @@
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/**/discord.xml
+.idea/**/misc.xml
+.idea/**/vsc.xml
+.idea/**/profiles_setting.xml
+.idea/**/Project_Default_setting.xml
 
 # AWS User-specific
 .idea/**/aws.xml
